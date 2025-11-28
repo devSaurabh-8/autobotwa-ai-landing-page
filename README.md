@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vercel/next.js/canary/packages/create-next-app/templates/default/public/next.svg" width="80" alt="Next.js Logo" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo.svg" width="80" alt="Tailwind CSS Logo" />
+</p>
+
+<h1 align="center">AutoBotwa AI - Productivity Landing Page 🚀</h1>
+
 # AutoBotwa AI - Productivity Landing Page 🚀
 
 A modern AI-powered productivity landing page built using **Next.js** and **Tailwind CSS**.  
